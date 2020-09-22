@@ -10,3 +10,4 @@ It serves the purpose for me to have examples to reference for various APIs.
 * Date & Time API
 * Optional API
 * Default Interface Methods
+* Nashorn JavaScript
