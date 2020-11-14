@@ -11,3 +11,4 @@ It serves the purpose for me to have examples to reference for various APIs.
 * Optional API
 * Default Interface Methods
 * Nashorn JavaScript
+* Service Providers (although from Java 6)
