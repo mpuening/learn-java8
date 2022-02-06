@@ -1,6 +1,8 @@
 Learn Java 8
 ============
 
+[![Continuous Integration](https://github.com/mpuening/learn-java8/actions/workflows/ci.yml/badge.svg)](https://github.com/mpuening/learn-java8/actions/workflows/ci.yml)
+
 This project contains test cases that I made for me to learn some of the new Java 8 features.
 
 It serves the purpose for me to have examples to reference for various APIs.
